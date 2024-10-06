@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Cpp/Скотт Майерс/Вывод типов/Вывод типа auto.md",
-                "mode": "preview",
+                "file": "Learning Cpp/Скотт Майерс/Вывод типов/Знакомство с decltype.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 213.5,
     "collapsed": true
   },
   "right": {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Cpp/Скотт Майерс/Вывод типов/Вывод типа auto.md",
+                "file": "Learning Cpp/Скотт Майерс/Вывод типов/Знакомство с decltype.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Cpp/Скотт Майерс/Вывод типов/Вывод типа auto.md",
+                "file": "Learning Cpp/Скотт Майерс/Вывод типов/Знакомство с decltype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Cpp/Скотт Майерс/Вывод типов/Вывод типа auto.md"
+                "file": "Learning Cpp/Скотт Майерс/Вывод типов/Знакомство с decltype.md"
               }
             }
           }
@@ -172,9 +172,13 @@
   },
   "active": "0a43af4df993abc5",
   "lastOpenFiles": [
-    "GlowByte/impala-nova-chart.md",
+    "Learning Cpp/Скотт Майерс/Объявление auto/Если auto выводит нежелательный тип, используйте явно типизированный инициализатор.md",
+    "Learning Cpp/Скотт Майерс/Вывод типов/Знакомство с decltype.md",
+    "Learning Cpp/Скотт Майерс/Объявление auto/Объявление auto.md",
+    "Learning Cpp/Скотт Майерс/Объявление auto",
     "Learning Cpp/Скотт Майерс/Вывод типов/Вывод типа auto.md",
     "Learning Cpp/Скотт Майерс/Вывод типов/Вывод типа шаблона.md",
+    "GlowByte/impala-nova-chart.md",
     "GlowByte/GlowByte.md",
     "Learning Cpp/Скотт Майерс/Параллельные вычисления/Параллельные вычисления.md",
     "Learning Cpp/Скотт Майерс/Параллельные вычисления/Используйте stdatomic для параллельности, volatile - для особой памяти.md",
@@ -200,14 +204,10 @@
     "Learning Cpp/Страуструп/Введение/Контейнеры и алгоритмы",
     "Learning Cpp/Страуструп/Базовые средства/Базовые средства.md",
     "Learning Cpp/Learning Cpp.md",
-    "Untitled.md",
     "Tags",
-    "Learning Cpp/Страуструп/Введение/Параллелизм и утилиты/Управление ресурсами.md",
-    "Learning Cpp/Страуструп/Введение/Параллелизм и утилиты/Возврат результатов.md",
     "Untitled.canvas",
     "Learning Cpp/Страуструп/Обзор стандартной библиотеки/Потоки и задачи",
     "Learning Cpp/К. Владиморов Лекции",
-    "Untitled",
-    "Learning Cpp/Страуструп/Обзор стандартной библиотеки/Память и ресурсы"
+    "Untitled"
   ]
 }
