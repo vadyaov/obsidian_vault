@@ -11,11 +11,9 @@
             "id": "a073d064d4e6989a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "GlowByte/impala-nova-chart.md",
-                "mode": "preview",
-                "source": false
+                "path": "GlowByte/Bootcamp"
               }
             }
           },
@@ -91,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "93cc80298dfef017",
@@ -172,8 +169,10 @@
   },
   "active": "0a43af4df993abc5",
   "lastOpenFiles": [
-    "Learning Cpp/Скотт Майерс/Вывод типов/Как просмотреть выведенные типы.md",
+    "GlowByte/Bootcamp/Bootcamp.md",
     "Learning Cpp/Скотт Майерс/Вывод типов/Знакомство с decltype.md",
+    "GlowByte/impala-nova-chart.md",
+    "Learning Cpp/Скотт Майерс/Вывод типов/Как просмотреть выведенные типы.md",
     "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача/Используйте stdmove для rvalue-ссылок, а stdforward - для универсальных ссылок.md",
     "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача/Отличие универсальных ссылок от rvalue-ссылок.md",
     "Learning Cpp/Скотт Майерс/Объявление auto/Если auto выводит нежелательный тип, используйте явно типизированный инициализатор.md",
@@ -181,7 +180,6 @@
     "Learning Cpp/Скотт Майерс/Объявление auto",
     "Learning Cpp/Скотт Майерс/Вывод типов/Вывод типа auto.md",
     "Learning Cpp/Скотт Майерс/Вывод типов/Вывод типа шаблона.md",
-    "GlowByte/impala-nova-chart.md",
     "GlowByte/GlowByte.md",
     "Learning Cpp/Скотт Майерс/Параллельные вычисления/Параллельные вычисления.md",
     "Learning Cpp/Скотт Майерс/Параллельные вычисления/Используйте stdatomic для параллельности, volatile - для особой памяти.md",
@@ -192,7 +190,6 @@
     "Learning Cpp/Скотт Майерс/Вывод типов/Вывод типов.md",
     "Learning Cpp/Скотт Майерс/Скотт Майерс.md",
     "Learning Cpp/Скотт Майерс/Вывод типов",
-    "GlowByte/Bootcamp/Bootcamp.md",
     "Learning Cpp/Скотт Майерс/Untitled.md",
     "Learning Cpp/Скотт Майерс",
     "Learning Cpp/Страуструп/Страуструп.md",
