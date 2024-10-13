@@ -11,9 +11,11 @@
             "id": "a073d064d4e6989a",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "GlowByte/Bootcamp"
+                "file": "GlowByte/impala-nova-chart.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -23,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Cpp/Скотт Майерс/Вывод типов/Знакомство с decltype.md",
-                "mode": "preview",
+                "file": "Learning Cpp/Скотт Майерс/Вывод типов/Как просмотреть выведенные типы.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -89,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "93cc80298dfef017",
@@ -105,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Cpp/Скотт Майерс/Вывод типов/Знакомство с decltype.md",
+                "file": "Learning Cpp/Скотт Майерс/Вывод типов/Как просмотреть выведенные типы.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Cpp/Скотт Майерс/Вывод типов/Знакомство с decltype.md",
+                "file": "Learning Cpp/Скотт Майерс/Вывод типов/Как просмотреть выведенные типы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Cpp/Скотт Майерс/Вывод типов/Знакомство с decltype.md"
+                "file": "Learning Cpp/Скотт Майерс/Вывод типов/Как просмотреть выведенные типы.md"
               }
             }
           }
@@ -170,9 +173,13 @@
   "active": "0a43af4df993abc5",
   "lastOpenFiles": [
     "GlowByte/Bootcamp/Bootcamp.md",
-    "Learning Cpp/Скотт Майерс/Вывод типов/Знакомство с decltype.md",
-    "GlowByte/impala-nova-chart.md",
+    "GlowByte/Bootcamp/Untitled 1.md",
+    "GlowByte/Новая метрика idle_threads.md",
+    "GlowByte/metric idle.md",
     "Learning Cpp/Скотт Майерс/Вывод типов/Как просмотреть выведенные типы.md",
+    "GlowByte/Дубликаты метрик io_mgr.md",
+    "GlowByte/impala-nova-chart.md",
+    "Learning Cpp/Скотт Майерс/Вывод типов/Знакомство с decltype.md",
     "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача/Используйте stdmove для rvalue-ссылок, а stdforward - для универсальных ссылок.md",
     "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача/Отличие универсальных ссылок от rvalue-ссылок.md",
     "Learning Cpp/Скотт Майерс/Объявление auto/Если auto выводит нежелательный тип, используйте явно типизированный инициализатор.md",
@@ -196,10 +203,6 @@
     "Learning Cpp/Страуструп/.md",
     "Learning Cpp/Страуструп/Введение/Введение.md",
     "Learning Cpp/Страуструп/Введение/Механизмы абстрации/Шаблоны/Шаблоны с переменным числом параметров.md",
-    "Learning Cpp/Страуструп/Lambda expression.md",
-    "Learning Cpp/Страуструп/Механизмы абстракции/Механизмы абстракции.md",
-    "Learning Cpp/Страуструп/Введение/Untitled.md",
-    "Learning Cpp/Страуструп/Введение/Контейнеры и алгоритмы/Контейнеры и алгоритмы.md",
     "Learning Cpp/Страуструп/Введение/Контейнеры и алгоритмы",
     "Tags",
     "Untitled.canvas",
