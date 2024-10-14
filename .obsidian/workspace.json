@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GlowByte/impala-nova-chart.md",
+                "file": "Learning Cpp/Скотт Майерс/Вывод типов/Как просмотреть выведенные типы.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "0a43af4df993abc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning Cpp/Скотт Майерс/Вывод типов/Как просмотреть выведенные типы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,17 +157,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a43af4df993abc5",
+  "active": "a073d064d4e6989a",
   "lastOpenFiles": [
     "GlowByte/Bootcamp/Bootcamp.md",
-    "GlowByte/Bootcamp/Untitled 1.md",
-    "GlowByte/Новая метрика idle_threads.md",
-    "GlowByte/metric idle.md",
-    "Learning Cpp/Скотт Майерс/Вывод типов/Как просмотреть выведенные типы.md",
-    "GlowByte/Дубликаты метрик io_mgr.md",
-    "GlowByte/impala-nova-chart.md",
-    "Learning Cpp/Скотт Майерс/Вывод типов/Знакомство с decltype.md",
     "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача/Используйте stdmove для rvalue-ссылок, а stdforward - для универсальных ссылок.md",
+    "Learning Cpp/Скотт Майерс/Параллельные вычисления/Используйте stdatomic для параллельности, volatile - для особой памяти.md",
+    "GlowByte/impala-nova-chart.md",
+    "GlowByte/Bootcamp/Untitled 1.md",
+    "GlowByte/metric idle.md",
+    "GlowByte/Дубликаты метрик io_mgr.md",
+    "GlowByte/Новая метрика idle_threads.md",
+    "Learning Cpp/Скотт Майерс/Вывод типов/Знакомство с decltype.md",
+    "Learning Cpp/Скотт Майерс/Вывод типов/Как просмотреть выведенные типы.md",
     "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача/Отличие универсальных ссылок от rvalue-ссылок.md",
     "Learning Cpp/Скотт Майерс/Объявление auto/Если auto выводит нежелательный тип, используйте явно типизированный инициализатор.md",
     "Learning Cpp/Скотт Майерс/Объявление auto/Объявление auto.md",
@@ -189,7 +177,6 @@
     "Learning Cpp/Скотт Майерс/Вывод типов/Вывод типа шаблона.md",
     "GlowByte/GlowByte.md",
     "Learning Cpp/Скотт Майерс/Параллельные вычисления/Параллельные вычисления.md",
-    "Learning Cpp/Скотт Майерс/Параллельные вычисления/Используйте stdatomic для параллельности, volatile - для особой памяти.md",
     "Learning Cpp/Скотт Майерс/Параллельные вычисления",
     "Learning Cpp/Скотт Майерс/Вывод типов/rvalue.md",
     "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача/Rvalue-ссылки, семантика перемещений и прямая передача.md",
