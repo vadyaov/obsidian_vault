@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Cpp/Скотт Майерс/Вывод типов/Как просмотреть выведенные типы.md",
-                "mode": "preview",
+                "file": "GlowByte/Дубликаты метрик io_mgr.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "93cc80298dfef017",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Cpp/Скотт Майерс/Вывод типов/Как просмотреть выведенные типы.md",
+                "file": "GlowByte/Дубликаты метрик io_mgr.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Cpp/Скотт Майерс/Вывод типов/Как просмотреть выведенные типы.md",
+                "file": "GlowByte/Дубликаты метрик io_mgr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Cpp/Скотт Майерс/Вывод типов/Как просмотреть выведенные типы.md"
+                "file": "GlowByte/Дубликаты метрик io_mgr.md"
               }
             }
           }
@@ -159,19 +158,23 @@
   },
   "active": "a073d064d4e6989a",
   "lastOpenFiles": [
+    "GlowByte/metric idle.md",
+    "GlowByte/Новая метрика idle_threads.md",
+    "GlowByte/Дубликаты метрик io_mgr.md",
+    "Learning Cpp/Скотт Майерс/Объявление auto/Испытательный срок, цели.md",
+    "Learning Cpp/Скотт Майерс/Объявление auto/Дубликаты метрик. Выполнение задачи.md",
+    "Learning Cpp/Скотт Майерс/Объявление auto/Untitled.md",
+    "Learning Cpp/Скотт Майерс/Объявление auto/Предпочитайте auto явному объявлению типа.md",
+    "Learning Cpp/Скотт Майерс/Объявление auto/Объявление auto.md",
+    "Learning Cpp/Скотт Майерс/Вывод типов/Как просмотреть выведенные типы.md",
     "GlowByte/Bootcamp/Bootcamp.md",
     "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача/Используйте stdmove для rvalue-ссылок, а stdforward - для универсальных ссылок.md",
     "Learning Cpp/Скотт Майерс/Параллельные вычисления/Используйте stdatomic для параллельности, volatile - для особой памяти.md",
     "GlowByte/impala-nova-chart.md",
     "GlowByte/Bootcamp/Untitled 1.md",
-    "GlowByte/metric idle.md",
-    "GlowByte/Дубликаты метрик io_mgr.md",
-    "GlowByte/Новая метрика idle_threads.md",
     "Learning Cpp/Скотт Майерс/Вывод типов/Знакомство с decltype.md",
-    "Learning Cpp/Скотт Майерс/Вывод типов/Как просмотреть выведенные типы.md",
     "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача/Отличие универсальных ссылок от rvalue-ссылок.md",
     "Learning Cpp/Скотт Майерс/Объявление auto/Если auto выводит нежелательный тип, используйте явно типизированный инициализатор.md",
-    "Learning Cpp/Скотт Майерс/Объявление auto/Объявление auto.md",
     "Learning Cpp/Скотт Майерс/Объявление auto",
     "Learning Cpp/Скотт Майерс/Вывод типов/Вывод типа auto.md",
     "Learning Cpp/Скотт Майерс/Вывод типов/Вывод типа шаблона.md",
@@ -186,10 +189,6 @@
     "Learning Cpp/Скотт Майерс/Вывод типов",
     "Learning Cpp/Скотт Майерс/Untitled.md",
     "Learning Cpp/Скотт Майерс",
-    "Learning Cpp/Страуструп/Страуструп.md",
-    "Learning Cpp/Страуструп/.md",
-    "Learning Cpp/Страуструп/Введение/Введение.md",
-    "Learning Cpp/Страуструп/Введение/Механизмы абстрации/Шаблоны/Шаблоны с переменным числом параметров.md",
     "Learning Cpp/Страуструп/Введение/Контейнеры и алгоритмы",
     "Tags",
     "Untitled.canvas",
