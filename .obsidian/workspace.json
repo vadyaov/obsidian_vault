@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GlowByte/Дубликаты метрик io_mgr.md",
+                "file": "Learning Cpp/Скотт Майерс/Объявление auto/Предпочитайте auto явному объявлению типа.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "93cc80298dfef017",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GlowByte/Дубликаты метрик io_mgr.md",
+                "file": "Learning Cpp/Скотт Майерс/Объявление auto/Предпочитайте auto явному объявлению типа.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GlowByte/Дубликаты метрик io_mgr.md",
+                "file": "Learning Cpp/Скотт Майерс/Объявление auto/Предпочитайте auto явному объявлению типа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GlowByte/Дубликаты метрик io_mgr.md"
+                "file": "Learning Cpp/Скотт Майерс/Объявление auto/Предпочитайте auto явному объявлению типа.md"
               }
             }
           }
@@ -158,8 +159,12 @@
   },
   "active": "a073d064d4e6989a",
   "lastOpenFiles": [
-    "GlowByte/metric idle.md",
+    "GlowByte/Задача добавления метрик admission slots.md",
+    "GlowByte/GlowByte.md",
+    "GlowByte/Bootcamp/Untitled.md",
+    "GlowByte/impala-nova-chart.md",
     "GlowByte/Новая метрика idle_threads.md",
+    "GlowByte/metric idle.md",
     "GlowByte/Дубликаты метрик io_mgr.md",
     "Learning Cpp/Скотт Майерс/Объявление auto/Испытательный срок, цели.md",
     "Learning Cpp/Скотт Майерс/Объявление auto/Дубликаты метрик. Выполнение задачи.md",
@@ -170,7 +175,6 @@
     "GlowByte/Bootcamp/Bootcamp.md",
     "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача/Используйте stdmove для rvalue-ссылок, а stdforward - для универсальных ссылок.md",
     "Learning Cpp/Скотт Майерс/Параллельные вычисления/Используйте stdatomic для параллельности, volatile - для особой памяти.md",
-    "GlowByte/impala-nova-chart.md",
     "GlowByte/Bootcamp/Untitled 1.md",
     "Learning Cpp/Скотт Майерс/Вывод типов/Знакомство с decltype.md",
     "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача/Отличие универсальных ссылок от rvalue-ссылок.md",
@@ -178,16 +182,13 @@
     "Learning Cpp/Скотт Майерс/Объявление auto",
     "Learning Cpp/Скотт Майерс/Вывод типов/Вывод типа auto.md",
     "Learning Cpp/Скотт Майерс/Вывод типов/Вывод типа шаблона.md",
-    "GlowByte/GlowByte.md",
     "Learning Cpp/Скотт Майерс/Параллельные вычисления/Параллельные вычисления.md",
     "Learning Cpp/Скотт Майерс/Параллельные вычисления",
     "Learning Cpp/Скотт Майерс/Вывод типов/rvalue.md",
     "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача/Rvalue-ссылки, семантика перемещений и прямая передача.md",
     "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача",
     "Learning Cpp/Скотт Майерс/Вывод типов/Вывод типов.md",
-    "Learning Cpp/Скотт Майерс/Скотт Майерс.md",
     "Learning Cpp/Скотт Майерс/Вывод типов",
-    "Learning Cpp/Скотт Майерс/Untitled.md",
     "Learning Cpp/Скотт Майерс",
     "Learning Cpp/Страуструп/Введение/Контейнеры и алгоритмы",
     "Tags",
