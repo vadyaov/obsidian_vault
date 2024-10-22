@@ -35,7 +35,6 @@
 4. Окончательный лимит памяти на хост должен удовлетворять наибольшему начальному резервированию.
 
 Чтобы допускать запросы на основе этих условий, контроллер допуска учитывает следующие параметры как на уровне каждого хоста, так и на уровне каждого пула:
-
 - **Зарезервированная память (Mem Reserved):** объём памяти, который был сообщён как зарезервированный всеми бэкендами, получаемый из обновлений темы `statestore`.
   Значения, которые отправляются, поступают из трекеров памяти пула в методе `UpdateMemTrackerStats()`, который отражает память, зарезервированную фрагментами, начавшими выполнение. Для запросов, которые выполняются и имеют лимиты памяти, лимит считается зарезервированной памятью, так как использование памяти может достигать этого лимита. В противном случае используется текущее потребление памяти запроса (см. `MemTracker::GetPoolMemReserved()`).
   Совокупные значения по пулу и хосту вычисляются в `UpdateClusterAggregates()`. Это состояние, как только все обновления будут полностью распределены и агрегированы, предоставляет достаточно информации для принятия решений о допуске любым `impalad`. Однако для этого требуется ожидание, пока все допущенные запросы запустят удалённые фрагменты, а затем обновлённое состояние будет распространено через `statestore`.
@@ -90,3 +89,30 @@
 
 ### Механизм настройки пула:
 Путь к файлам конфигурации пулов указывается с помощью флагов запуска `"fair_scheduler_allocation_path"` и `"llama_site_path"`. Формат для задания конфигураций пулов основан на Yarn и Llama с добавлениями, специфичными для Impala. Запускается служба мониторинга файлов, которая отслеживает изменения в этих файлах. Эти изменения применяются к Impala только при обслуживании нового запроса. Подробности можно найти в классе `RequestPoolService`.
+
+
+
+Количество слотов на хосте(backend-e) можно узнать так:
+```cpp
+  for (const auto& entry : state.per_backend_schedule_states()) {
+    const NetworkAddressPB& host = entry.first;
+    const string host_id = NetworkAddressPBToString(host);
+    int64_t admission_slots = entry.second.be_desc.admission_slots();
+    int64_t agg_slots_in_use_on_host = host_stats_[host_id].slots_in_use;
+    // Aggregate num of slots in use across all queries admitted by other coordinators.
+    for (const auto& remote_entry : remote_per_host_stats_) {
+      auto remote_stat_itr = remote_entry.second.find(host_id);
+      if (remote_stat_itr != remote_entry.second.end()) {
+        agg_slots_in_use_on_host += remote_stat_itr->second.slots_in_use;
+      }
+    }
+  }
+```
+Этот цикл вызывается внутри метода
+```cpp
+bool AdmissionController::HasAvailableSlots(const ScheduleState& state,
+    const TPoolConfig& pool_cfg, string* unavailable_reason,
+    bool& coordinator_resource_limited);
+```
+
+`ScheduleState` — это класс-контейнер, предназначенный для хранения данных, используемых для планирования, который используется `Scheduler` и `AdmissionController`, выполняющими саму логику планирования. Доступ к нему предоставляется только этим компонентам.
