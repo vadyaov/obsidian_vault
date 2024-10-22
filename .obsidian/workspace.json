@@ -1,22 +1,24 @@
 {
   "main": {
-    "id": "d1f0dc839d84386d",
+    "id": "3f960ce91e4bbf79",
     "type": "split",
     "children": [
       {
-        "id": "dc3667d25ad84347",
+        "id": "1e34de7f1d6aff95",
         "type": "tabs",
         "children": [
           {
-            "id": "a073d064d4e6989a",
+            "id": "768e7c1c130b84c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GlowByte/Задача добавления метрик admission slots.md",
+                "file": "GlowByte/OnBoarding/Испытательный срок, цели.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Испытательный срок, цели"
             }
           }
         ]
@@ -25,25 +27,27 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b629a5fa93cda672",
+    "id": "32cfd09e3a16b621",
     "type": "split",
     "children": [
       {
-        "id": "801f120fdb09156f",
+        "id": "f60a849eeb4f0290",
         "type": "tabs",
         "children": [
           {
-            "id": "ccfdad19f4e29193",
+            "id": "dea6b487b75ba216",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "e98e6b66539abc74",
+            "id": "18abd2afd3db7c79",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,23 +58,29 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "7ae411c158626115",
+            "id": "28a09564767517f6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
-            "id": "8e352b941de71826",
+            "id": "75ecb8237732779b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
-              "state": {}
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ],
@@ -78,68 +88,75 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 257.5
   },
   "right": {
-    "id": "93cc80298dfef017",
+    "id": "c6073e569d28247d",
     "type": "split",
     "children": [
       {
-        "id": "ca7d3178d748bb68",
+        "id": "96834194ffb5caa0",
         "type": "tabs",
         "children": [
           {
-            "id": "90bf2b4509ccbb6d",
+            "id": "c88d00d8a79b7636",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GlowByte/Задача добавления метрик admission slots.md",
-                "collapseAll": true,
+                "file": "GlowByte/OnBoarding/Испытательный срок, цели.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Испытательный срок, цели"
             }
           },
           {
-            "id": "2c506d8fb6686dbd",
+            "id": "d18eac2a0c6c8f1d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GlowByte/Задача добавления метрик admission slots.md",
+                "file": "GlowByte/OnBoarding/Испытательный срок, цели.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Испытательный срок, цели"
             }
           },
           {
-            "id": "c0ed07fbc62bcad0",
+            "id": "4ea9c01bab17811b",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "8388bae95361ede2",
+            "id": "58fadf2f68d2b376",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "GlowByte/Задача добавления метрик admission slots.md"
-              }
+                "file": "GlowByte/OnBoarding/Испытательный срок, цели.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Испытательный срок, цели"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,44 +173,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a073d064d4e6989a",
+  "active": "768e7c1c130b84c0",
   "lastOpenFiles": [
-    "GlowByte/Untitled.md",
-    "GlowByte/OnBoarding/Компоненты Impala Server.md",
-    "GlowByte/OnBoarding/Impala.md",
-    "GlowByte/OnBoarding/OnBoarding.md",
-    "Learning Cpp/Скотт Майерс/Объявление auto/Предпочитайте auto явному объявлению типа.md",
-    "GlowByte/Дубликаты метрик. Выполнение задачи.md",
-    "GlowByte/OnBoarding/Испытательный срок, цели.md",
     "GlowByte/OnBoarding/HDFS.md",
+    "GlowByte/OnBoarding/Impala.md",
+    "GlowByte/OnBoarding/Компоненты Impala Server.md",
+    "GlowByte/OnBoarding/Испытательный срок, цели.md",
+    "GlowByte/OnBoarding/OnBoarding.md",
     "GlowByte/OnBoarding",
-    "GlowByte/Задача добавления метрик admission slots.md",
-    "GlowByte/GlowByte.md",
-    "GlowByte/Bootcamp/Untitled.md",
-    "GlowByte/impala-nova-chart.md",
-    "GlowByte/Новая метрика idle_threads.md",
-    "GlowByte/metric idle.md",
-    "GlowByte/Дубликаты метрик io_mgr.md",
-    "Learning Cpp/Скотт Майерс/Объявление auto/Испытательный срок, цели.md",
-    "Learning Cpp/Скотт Майерс/Объявление auto/Дубликаты метрик. Выполнение задачи.md",
-    "Learning Cpp/Скотт Майерс/Объявление auto/Untitled.md",
+    "Learning Cpp/Скотт Майерс/Объявление auto/Предпочитайте auto явному объявлению типа.md",
     "Learning Cpp/Скотт Майерс/Объявление auto/Объявление auto.md",
-    "Learning Cpp/Скотт Майерс/Вывод типов/Как просмотреть выведенные типы.md",
-    "GlowByte/Bootcamp/Bootcamp.md",
-    "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача/Используйте stdmove для rvalue-ссылок, а stdforward - для универсальных ссылок.md",
-    "Learning Cpp/Скотт Майерс/Параллельные вычисления/Используйте stdatomic для параллельности, volatile - для особой памяти.md",
-    "GlowByte/Bootcamp/Untitled 1.md",
-    "Learning Cpp/Скотт Майерс/Вывод типов/Знакомство с decltype.md",
-    "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача/Отличие универсальных ссылок от rvalue-ссылок.md",
-    "Learning Cpp/Скотт Майерс/Объявление auto",
-    "Learning Cpp/Скотт Майерс/Параллельные вычисления",
-    "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача",
-    "Learning Cpp/Скотт Майерс/Вывод типов",
-    "Learning Cpp/Скотт Майерс",
-    "Learning Cpp/Страуструп/Введение/Контейнеры и алгоритмы",
-    "Tags",
-    "Untitled.canvas",
-    "Learning Cpp/Страуструп/Обзор стандартной библиотеки/Потоки и задачи",
-    "Learning Cpp/К. Владиморов Лекции"
+    "Learning Cpp/Скотт Майерс/Объявление auto/Если auto выводит нежелательный тип, используйте явно типизированный инициализатор.md",
+    "GlowByte/Untitled.md",
+    "GlowByte/Дубликаты метрик. Выполнение задачи.md",
+    "GlowByte/impala-nova-chart.md",
+    "GlowByte/Задача добавления метрик admission slots.md",
+    "GlowByte/GlowByte.md"
   ]
 }
