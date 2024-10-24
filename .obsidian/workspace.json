@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "GlowByte/OnBoarding/Испытательный срок, цели.md",
+=======
+                "file": "GlowByte/impala-nova-chart.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
@@ -104,8 +108,13 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "GlowByte/OnBoarding/Испытательный срок, цели.md",
                 "collapseAll": false,
+=======
+                "file": "GlowByte/impala-nova-chart.md",
+                "collapseAll": true,
+>>>>>>> Stashed changes
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -123,7 +132,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "GlowByte/OnBoarding/Испытательный срок, цели.md",
+=======
+                "file": "GlowByte/impala-nova-chart.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -150,10 +163,15 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "GlowByte/OnBoarding/Испытательный срок, цели.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Испытательный срок, цели"
+=======
+                "file": "GlowByte/impala-nova-chart.md"
+              }
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -175,13 +193,36 @@
   },
   "active": "768e7c1c130b84c0",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
+=======
+    "GlowByte/Задача добавления метрик admission slots.md",
+    "GlowByte/Untitled.md",
+    "GlowByte/OnBoarding/Компоненты Impala Server.md",
+    "GlowByte/OnBoarding/Impala.md",
+    "GlowByte/OnBoarding/OnBoarding.md",
+    "Learning Cpp/Скотт Майерс/Объявление auto/Предпочитайте auto явному объявлению типа.md",
+    "GlowByte/Дубликаты метрик. Выполнение задачи.md",
+    "GlowByte/OnBoarding/Испытательный срок, цели.md",
+>>>>>>> Stashed changes
     "GlowByte/OnBoarding/HDFS.md",
     "GlowByte/OnBoarding/Impala.md",
     "GlowByte/OnBoarding/Компоненты Impala Server.md",
     "GlowByte/OnBoarding/Испытательный срок, цели.md",
     "GlowByte/OnBoarding/OnBoarding.md",
     "GlowByte/OnBoarding",
+<<<<<<< Updated upstream
     "Learning Cpp/Скотт Майерс/Объявление auto/Предпочитайте auto явному объявлению типа.md",
+=======
+    "GlowByte/GlowByte.md",
+    "GlowByte/Bootcamp/Untitled.md",
+    "GlowByte/impala-nova-chart.md",
+    "GlowByte/Новая метрика idle_threads.md",
+    "GlowByte/metric idle.md",
+    "GlowByte/Дубликаты метрик io_mgr.md",
+    "Learning Cpp/Скотт Майерс/Объявление auto/Испытательный срок, цели.md",
+    "Learning Cpp/Скотт Майерс/Объявление auto/Дубликаты метрик. Выполнение задачи.md",
+    "Learning Cpp/Скотт Майерс/Объявление auto/Untitled.md",
+>>>>>>> Stashed changes
     "Learning Cpp/Скотт Майерс/Объявление auto/Объявление auto.md",
     "Learning Cpp/Скотт Майерс/Объявление auto/Если auto выводит нежелательный тип, используйте явно типизированный инициализатор.md",
     "GlowByte/Untitled.md",
