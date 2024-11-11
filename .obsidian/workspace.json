@@ -1,33 +1,24 @@
 {
   "main": {
-    "id": "3f960ce91e4bbf79",
+    "id": "35f55a1026415598",
     "type": "split",
     "children": [
       {
-        "id": "1e34de7f1d6aff95",
+        "id": "79be78e70496c1d9",
         "type": "tabs",
         "children": [
           {
-            "id": "768e7c1c130b84c0",
+            "id": "d658890d135d9a9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-                "file": "GlowByte/OnBoarding/Испытательный срок, цели.md",
-=======
-                "file": "GlowByte/impala-nova-chart.md",
->>>>>>> Stashed changes
+                "file": "Learning Cpp/Скотт Майерс/Переход к современному С++/Предпочитайте nullptr значениям 0 и NULL.md",
                 "mode": "source",
-=======
-                "file": "Learning Cpp/Скотт Майерс/Объявление auto/Предпочитайте auto явному объявлению типа.md",
-                "mode": "preview",
->>>>>>> Stashed changes
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Предпочитайте auto явному объявлению типа"
+              "title": "Предпочитайте nullptr значениям 0 и NULL"
             }
           }
         ]
@@ -36,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "32cfd09e3a16b621",
+    "id": "96c9a95c7b0172f9",
     "type": "split",
     "children": [
       {
-        "id": "f60a849eeb4f0290",
+        "id": "9c608ce4670d70ad",
         "type": "tabs",
         "children": [
           {
-            "id": "dea6b487b75ba216",
+            "id": "049395ad95306084",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +47,7 @@
             }
           },
           {
-            "id": "18abd2afd3db7c79",
+            "id": "55487e6660eac77c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,7 +64,7 @@
             }
           },
           {
-            "id": "28a09564767517f6",
+            "id": "f0538f00905c434e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,7 +74,7 @@
             }
           },
           {
-            "id": "75ecb8237732779b",
+            "id": "1131ba09c6c15fac",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -97,29 +88,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 300
   },
   "right": {
-    "id": "c6073e569d28247d",
+    "id": "308aec960880f596",
     "type": "split",
     "children": [
       {
-        "id": "96834194ffb5caa0",
+        "id": "14a3353b9ce6a791",
         "type": "tabs",
         "children": [
           {
-            "id": "c88d00d8a79b7636",
+            "id": "22ef0826d539ed5d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "GlowByte/OnBoarding/Испытательный срок, цели.md",
+                "file": "Learning Cpp/Скотт Майерс/Переход к современному С++/Различие между {} и () при создании объектов.md",
                 "collapseAll": false,
-=======
-                "file": "GlowByte/impala-nova-chart.md",
-                "collapseAll": true,
->>>>>>> Stashed changes
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -128,29 +114,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Испытательный срок, цели"
+              "title": "Backlinks for Различие между {} и () при создании объектов"
             }
           },
           {
-            "id": "d18eac2a0c6c8f1d",
+            "id": "53cf56ad4a1179e0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "GlowByte/OnBoarding/Испытательный срок, цели.md",
-=======
-                "file": "GlowByte/impala-nova-chart.md",
->>>>>>> Stashed changes
+                "file": "Learning Cpp/Скотт Майерс/Переход к современному С++/Различие между {} и () при создании объектов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Испытательный срок, цели"
+              "title": "Outgoing links from Различие между {} и () при создании объектов"
             }
           },
           {
-            "id": "4ea9c01bab17811b",
+            "id": "a9b0f8f58ce7d075",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -163,20 +145,15 @@
             }
           },
           {
-            "id": "58fadf2f68d2b376",
+            "id": "02907b9176bfefd5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "GlowByte/OnBoarding/Испытательный срок, цели.md"
+                "file": "Learning Cpp/Скотт Майерс/Переход к современному С++/Различие между {} и () при создании объектов.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Испытательный срок, цели"
-=======
-                "file": "GlowByte/impala-nova-chart.md"
-              }
->>>>>>> Stashed changes
+              "title": "Outline of Различие между {} и () при создании объектов"
             }
           }
         ]
@@ -196,53 +173,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "768e7c1c130b84c0",
+  "active": "d658890d135d9a9e",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-    "GlowByte/Задача добавления метрик admission slots.md",
-    "GlowByte/Untitled.md",
-    "GlowByte/OnBoarding/Компоненты Impala Server.md",
-    "GlowByte/OnBoarding/Impala.md",
-    "GlowByte/OnBoarding/OnBoarding.md",
-    "Learning Cpp/Скотт Майерс/Объявление auto/Предпочитайте auto явному объявлению типа.md",
-    "GlowByte/Дубликаты метрик. Выполнение задачи.md",
-    "GlowByte/OnBoarding/Испытательный срок, цели.md",
->>>>>>> Stashed changes
-=======
-    "Learning Cpp/Скотт Майерс/Лямбда-выражения/Предпочитайте лямбда-выражения применению stdbind.md",
-    "Learning Cpp/Скотт Майерс/Объявление auto/Предпочитайте auto явному объявлению типа.md",
+    "Learning Cpp/Скотт Майерс/Переход к современному С++/Различие между {} и () при создании объектов.md",
+    "Learning Cpp/Скотт Майерс/Переход к современному С++/Предпочитайте nullptr значениям 0 и NULL.md",
+    "Learning Cpp/Скотт Майерс/Переход к современному С++/Переход к современному С++.md",
     "Learning Cpp/Скотт Майерс/Объявление auto/Если auto выводит нежелательный тип, используйте явно типизированный инициализатор.md",
-    "Learning Cpp/Скотт Майерс/Лямбда-выражения",
-    "GlowByte/OnBoarding/Испытательный срок, цели.md",
->>>>>>> Stashed changes
-    "GlowByte/OnBoarding/HDFS.md",
-    "GlowByte/OnBoarding/Impala.md",
-    "GlowByte/OnBoarding/Компоненты Impala Server.md",
-    "GlowByte/OnBoarding/OnBoarding.md",
-    "GlowByte/OnBoarding",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    "Learning Cpp/Скотт Майерс/Объявление auto/Предпочитайте auto явному объявлению типа.md",
-=======
-    "GlowByte/GlowByte.md",
-    "GlowByte/Bootcamp/Untitled.md",
-    "GlowByte/impala-nova-chart.md",
-    "GlowByte/Новая метрика idle_threads.md",
-    "GlowByte/metric idle.md",
-    "GlowByte/Дубликаты метрик io_mgr.md",
-    "Learning Cpp/Скотт Майерс/Объявление auto/Испытательный срок, цели.md",
-    "Learning Cpp/Скотт Майерс/Объявление auto/Дубликаты метрик. Выполнение задачи.md",
-    "Learning Cpp/Скотт Майерс/Объявление auto/Untitled.md",
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-    "Learning Cpp/Скотт Майерс/Объявление auto/Объявление auto.md",
-    "GlowByte/Untitled.md",
-    "GlowByte/Дубликаты метрик. Выполнение задачи.md",
-    "GlowByte/impala-nova-chart.md",
-    "GlowByte/Задача добавления метрик admission slots.md",
-    "GlowByte/GlowByte.md"
+    "Learning Cpp/Скотт Майерс/Переход к современному С++"
   ]
 }
