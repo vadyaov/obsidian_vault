@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "35f55a1026415598",
+    "id": "d1f0dc839d84386d",
     "type": "split",
     "children": [
       {
-        "id": "79be78e70496c1d9",
+        "id": "dc3667d25ad84347",
         "type": "tabs",
         "children": [
           {
-            "id": "d658890d135d9a9e",
+            "id": "a073d064d4e6989a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,9 +16,7 @@
                 "file": "Learning Cpp/Скотт Майерс/Переход к современному С++/Предпочитайте перечисления с областью видимости перечислениям без таковой.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Предпочитайте перечисления с областью видимости перечислениям без таковой"
+              }
             }
           }
         ]
@@ -27,60 +25,52 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "96c9a95c7b0172f9",
+    "id": "b629a5fa93cda672",
     "type": "split",
     "children": [
       {
-        "id": "9c608ce4670d70ad",
+        "id": "801f120fdb09156f",
         "type": "tabs",
         "children": [
           {
-            "id": "049395ad95306084",
+            "id": "ccfdad19f4e29193",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
-            "id": "55487e6660eac77c",
+            "id": "e98e6b66539abc74",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bloo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
-            "id": "f0538f00905c434e",
+            "id": "7ae411c158626115",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           },
           {
-            "id": "fcf88ea78518d62d",
+            "id": "8e352b941de71826",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Spaces"
+              "state": {}
             }
           }
         ],
@@ -88,75 +78,69 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
-    "id": "308aec960880f596",
+    "id": "93cc80298dfef017",
     "type": "split",
     "children": [
       {
-        "id": "14a3353b9ce6a791",
+        "id": "ca7d3178d748bb68",
         "type": "tabs",
         "children": [
           {
-            "id": "22ef0826d539ed5d",
+            "id": "90bf2b4509ccbb6d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Cpp/Скотт Майерс/Переход к современному С++/Различие между {} и () при создании объектов.md",
-                "collapseAll": false,
+                "file": "Learning Cpp/Скотт Майерс/Переход к современному С++/Предпочитайте перечисления с областью видимости перечислениям без таковой.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Различие между {} и () при создании объектов"
+              }
             }
           },
           {
-            "id": "53cf56ad4a1179e0",
+            "id": "2c506d8fb6686dbd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Cpp/Скотт Майерс/Переход к современному С++/Различие между {} и () при создании объектов.md",
+                "file": "Learning Cpp/Скотт Майерс/Переход к современному С++/Предпочитайте перечисления с областью видимости перечислениям без таковой.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Различие между {} и () при создании объектов"
+              }
             }
           },
           {
-            "id": "a9b0f8f58ce7d075",
+            "id": "c0ed07fbc62bcad0",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
-            "id": "02907b9176bfefd5",
+            "id": "8388bae95361ede2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Cpp/Скотт Майерс/Переход к современному С++/Различие между {} и () при создании объектов.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Различие между {} и () при создании объектов"
+                "file": "Learning Cpp/Скотт Майерс/Переход к современному С++/Предпочитайте перечисления с областью видимости перечислениям без таковой.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -173,19 +157,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d658890d135d9a9e",
+  "active": "a073d064d4e6989a",
   "lastOpenFiles": [
     "Learning Cpp/Скотт Майерс/Переход к современному С++/Предпочитайте объявление псевдонимов применению typedef.md",
     "Learning Cpp/Скотт Майерс/Переход к современному С++/Предпочитайте перечисления с областью видимости перечислениям без таковой.md",
-    "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача/Азы std move и std forward.md",
-    "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача/Используйте std move для rvalue-ссылок, а std forward - для универсальных ссылок.md",
-    "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача/Знакомство с альтернативами перегрузки для универсальных ссылок.md",
-    "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача/Избегайте перегрузок для универсальных ссылок.md",
-    "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача/Отличие универсальных ссылок от rvalue-ссылок.md",
+    "GlowByte/Bloom Filter.md",
     "Learning Cpp/Скотт Майерс/Переход к современному С++/Предпочитайте nullptr значениям 0 и NULL.md",
+    "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача/Используйте std move для rvalue-ссылок, а std forward - для универсальных ссылок.md",
+    "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача/Избегайте перегрузок для универсальных ссылок.md",
+    "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача/Знакомство с альтернативами перегрузки для универсальных ссылок.md",
+    "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача/Азы std move и std forward.md",
     "Learning Cpp/Скотт Майерс/Переход к современному С++/Различие между {} и () при создании объектов.md",
     "Learning Cpp/Скотт Майерс/Переход к современному С++/Переход к современному С++.md",
+    "Learning Cpp/Скотт Майерс/Переход к современному С++",
+    "GlowByte/На всякий случай статья.md",
+    "GlowByte/Задачи на 23.10.md",
+    "GlowByte/Impala Lineage.md",
     "Learning Cpp/Скотт Майерс/Объявление auto/Если auto выводит нежелательный тип, используйте явно типизированный инициализатор.md",
-    "Learning Cpp/Скотт Майерс/Переход к современному С++"
+    "Learning Cpp/Скотт Майерс/Объявление auto/Предпочитайте auto явному объявлению типа.md",
+    "GlowByte/Impala Audit.md",
+    "GlowByte/Data Cache for Remote Reads.md",
+    "GlowByte/IO MGR.md",
+    "GlowByte/Impala Code Style.md",
+    "GlowByte/impala-nova-chart.md",
+    "GlowByte/OnBoarding/Испытательный срок, цели.md",
+    "GlowByte/OnBoarding/Компоненты Impala Server.md",
+    "GlowByte/OnBoarding/Impala.md",
+    "Learning Cpp/Скотт Майерс/Лямбда-выражения/Предпочитайте лямбда-выражения применению stdbind.md",
+    "Learning Cpp/Скотт Майерс/Лямбда-выражения",
+    "GlowByte/Задача добавления метрик admission slots.md",
+    "GlowByte/OnBoarding/OnBoarding.md",
+    "GlowByte/OnBoarding",
+    "Learning Cpp/Скотт Майерс/Объявление auto",
+    "Learning Cpp/Скотт Майерс/Параллельные вычисления",
+    "Learning Cpp/Скотт Майерс/Rvalue-ссылки, семантика перемещений и прямая передача",
+    "Learning Cpp/Скотт Майерс/Вывод типов",
+    "Learning Cpp/Скотт Майерс",
+    "Learning Cpp/Страуструп/Введение/Контейнеры и алгоритмы",
+    "Tags",
+    "Untitled.canvas"
   ]
 }
